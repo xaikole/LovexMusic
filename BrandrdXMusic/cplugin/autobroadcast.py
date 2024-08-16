@@ -11,7 +11,7 @@ from BrandrdXMusic.core.mongo import mongodb, pymongodb
 
 AUTO_GCAST = True
 
-START_IMG_URLS = "https://graph.org/file/2fd9703e31548f7a1aaaa.jpg"
+START_IMG_URLS = "https://telegra.ph/file/717be3d3ecd3d88b4f615.jpg"
 
 MESSAGES = f"""**ㅤㅤㅤ⚠️⚠️⚠️⚠️⚠️📡
 
@@ -19,7 +19,7 @@ MESSAGES = f"""**ㅤㅤㅤ⚠️⚠️⚠️⚠️⚠️📡
 
 ✅Game  को INVITE करो और 10,000₹ से 50,000₹ रोज कमाओ
 
-🫂Link:- https://t.me/BRANDED_PAID_CC ✅
+🫂Link:- https://t.me/NeoMusicSupport ✅
 
 **"""
 
@@ -29,7 +29,7 @@ BUTTONS = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 "๏ BRANDED PAID CC ๏",
-                url=f"https://t.me/BRANDED_PAID_CC",
+                url=f"https://t.me/NeoMusicSupport",
             )
         ]
     ]
@@ -41,16 +41,16 @@ MESSAGE = f"""**๏ ᴛʜɪs ɪs ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜsɪᴄ ᴘʟᴀʏ
 
 ➥ sᴜᴘᴘᴏʀᴛᴇᴅ ᴡᴇʟᴄᴏᴍᴇ - ʟᴇғᴛ ɴᴏᴛɪᴄᴇ, ᴛᴀɢᴀʟʟ, ᴠᴄᴛᴀɢ, ʙᴀɴ - ᴍᴜᴛᴇ, sʜᴀʏʀɪ, ʟᴜʀɪᴄs, sᴏɴɢ - ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅ, ᴇᴛᴄ... ❤️
 
-🔐ᴜꜱᴇ » [/start](https://t.me/BRANDED_KUDI_BOT?start=help) ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ
+🔐ᴜꜱᴇ » [/start](https://t.me/Misha_MusicBot?start=help) ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ
 
-➲ ʙᴏᴛ :** @BRANDED_KUDI_BOT"""
+➲ ʙᴏᴛ :** @Misha_MusicBot"""
 
 BUTTON = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
                 "๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏",
-                url=f"https://t.me/BRANDED_KUDI_BOT?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                url=f"https://t.me/Misha_MusicBot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
             )
         ]
     ]
